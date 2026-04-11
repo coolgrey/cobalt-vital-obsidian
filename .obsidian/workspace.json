@@ -11,14 +11,14 @@
             "id": "01fef729ab237675",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".smart-env/multi/00_대시보드_일일로그_2026-04-10_md.ajson",
-                "bFile": ".smart-env/multi/00_대시보드_일일로그_2026-04-10_md.ajson",
-                "aRef": ""
+                "file": "04_제출용/판교창업존/판교창업존_발표보조문서1.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 00_대시보드_일일로그_2026-04-10_md.ajson  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "판교창업존_발표보조문서1.md"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04_제출용/판교창업존/판교창업존_발표보조문서1.md.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "판교창업존_발표보조문서1.md 의 백링크"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04_제출용/판교창업존/판교창업존_발표보조문서1.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "판교창업존_발표보조문서1.md 의 나가는 링크"
             }
           },
           {
@@ -232,6 +234,7 @@
   },
   "active": "01fef729ab237675",
   "lastOpenFiles": [
+    "01_공통/코발트바이탈.md",
     "04_제출용/판교창업존/판교창업존_발표보조문서1.md.md",
     "Clippings/미국 농촌 의료의 새로운 장을 여는 거대한 실험.md",
     "04_제출용/AC배치/README.md",
@@ -257,7 +260,6 @@
     "02_건강계좌/판교창업존_발표보조문서1.md",
     "02_건강계좌/판교창업존_발표보조문서2.md",
     "02_건강계좌/건강계좌_비즈니스모델.md",
-    "02_건강계좌/건강계좌_문제정의.md",
     "무제.canvas",
     "Pasted image 20260410083602.png",
     "04_제출용/판교창업존",
