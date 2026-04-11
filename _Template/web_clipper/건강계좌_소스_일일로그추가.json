@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "건강계좌 소스 일일로그 추가",
+  "behavior": "append-daily",
+  "noteContentFormat": "\n- [{{title}}]({{url}}) — {{description}}\n"
+}

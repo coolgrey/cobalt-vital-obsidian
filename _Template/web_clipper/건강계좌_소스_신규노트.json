@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "건강계좌 소스 신규노트",
+  "behavior": "create",
+  "noteNameFormat": "{{title|safe_name}}",
+  "path": "06_RAW/Web Clipper",
+  "properties": [
+    {
+      "name": "type",
+      "value": "source",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "value": "{{date}}",
+      "type": "date"
+    },
+    {
+      "name": "source",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "author",
+      "value": "{{author}}",
+      "type": "multitext"
+    },
+    {
+      "name": "published",
+      "value": "{{published}}",
+      "type": "date"
+    },
+    {
+      "name": "tags",
+      "value": "source, web-clipper",
+      "type": "multitext"
+    }
+  ],
+  "noteContentFormat": "---\ntype: source\nstatus: inbox\ncreated: {{date}}\nsource: {{url}}\nauthor: {{author}}\npublished: {{published}}\ntags:\n  - source\n  - web-clipper\n---\n\n# {{title}}\n\n## 한줄 요약\n- \n\n## 원문 메모\n{{content}}\n\n## 연결 후보\n- [[02_건강계좌/건강계좌_문제정의]]\n- [[02_건강계좌/건강계좌_솔루션]]\n- [[02_건강계좌/건강계좌_비즈니스모델]]\n"
+}
