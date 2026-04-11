@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9fbc15d7e93777a0",
+        "id": "fc67d5103a2c664d",
         "type": "tabs",
         "children": [
           {
-            "id": "8704073c71baf9b4",
+            "id": "01fef729ab237675",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Clippings/미국 농촌 의료의 새로운 장을 여는 거대한 실험.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".smart-env/multi/00_대시보드_일일로그_2026-04-10_md.ajson",
+                "bFile": ".smart-env/multi/00_대시보드_일일로그_2026-04-10_md.ajson",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "미국 농촌 의료의 새로운 장을 여는 거대한 실험"
+              "icon": "diff",
+              "title": "Diff: 00_대시보드_일일로그_2026-04-10_md.ajson  (Working Tree)"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/미국 농촌 의료의 새로운 장을 여는 거대한 실험.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "미국 농촌 의료의 새로운 장을 여는 거대한 실험 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_건강계좌/건강계좌_사업개요_1페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "건강계좌_사업개요_1페이지 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -181,8 +179,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           },
           {
@@ -194,12 +192,23 @@
               "icon": "lucide-file-signature",
               "title": "각주"
             }
+          },
+          {
+            "id": "554990c77bdc6aac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,43 +226,44 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8704073c71baf9b4",
+  "active": "01fef729ab237675",
   "lastOpenFiles": [
+    "04_제출용/판교창업존/판교창업존_발표보조문서1.md.md",
     "Clippings/미국 농촌 의료의 새로운 장을 여는 거대한 실험.md",
+    "04_제출용/AC배치/README.md",
+    "04_제출용/AC배치/AC배치_문제정의.md",
+    "04_제출용/성남센터입주신청/성남센터입주신청_사업계획서.md",
+    "Open source control view.md",
+    "04_제출용/성남센터입주신청/성남창업센터_입주신청서_코발트바이탈.md",
+    "_Template/Changelog.md",
+    "00_대시보드/일일로그/2026-04-10.md",
+    "00_대시보드/일일로그/2026-04-12.md",
+    "_Template/아침_체크인_건강계좌.md",
+    "_Template/오늘_실행로그_템플릿.md",
+    "_Template/오늘_실행로그_초미니.md",
+    "00_대시보드/일일로그/README.md",
+    "00_대시보드/구조_설명.md",
+    "01_공통/공통_팀.md",
+    "Clippings/에이아이트릭스 AITRICS.md",
     "Clippings/심층기획데이터가 처방하는 시대, '의료 마이데이터' 1년이 바꾸기 시작한 대한민국 건강지도.md",
     "02_건강계좌/건강계좌_사업개요_1페이지.md",
     "02_건강계좌/건강계좌_솔루션.md",
-    "04_제출용/판교창업존/판교창업존_발표보조문서1.md.md",
     "04_제출용/판교창업존/판교창업존_발표보조문서2.md.md",
     "건강계좌 — 판교 창업존 발표자료.md",
     "02_건강계좌/판교창업존_발표보조문서1.md",
     "02_건강계좌/판교창업존_발표보조문서2.md",
     "02_건강계좌/건강계좌_비즈니스모델.md",
     "02_건강계좌/건강계좌_문제정의.md",
-    "05_리서치/경쟁사분석.md",
-    "_Template/오늘_실행로그_템플릿.md",
     "무제.canvas",
     "Pasted image 20260410083602.png",
-    "04_제출용/여성창업경진대회/여창_사업계획서_완성본.md",
-    "90_운영/question_index/판교창업존_발표보조문서2.md.md",
-    "90_운영/question_index/판교창업존_발표보조문서1.md.md",
     "04_제출용/판교창업존",
     "04_제출용/새 폴더",
-    "건강계좌.md",
-    "00_대시보드/일일로그/2026-04-10.md",
-    "_Template/아침_체크인_건강계좌.md",
-    "_Template/오늘_실행로그_초미니.md",
-    "Clippings/에이아이트릭스, 독보적 AI 기술력으로 병원 안팎 잇는 ‘AI 진료 생태계’ 제시.md",
-    "Clippings/PHR 상호운용성, 헬스케어 미래 바꿀 비밀.md",
-    "Clippings/에이아이트릭스 AITRICS.md",
-    "90_운영/workflows/README.md",
     "90_운영/workflows",
-    "90_운영/question_index/README.md",
     "90_운영/question_index",
-    "05_리서치/카카오헬스케어.md",
     "04_제출용/AC배치",
     "Clippings",
     "ABCare_Proposal_v0_9_260219_단테님공유.pdf",
