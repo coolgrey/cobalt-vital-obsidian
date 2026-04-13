@@ -1,7 +1,9 @@
 ---
-type: index
+type: index-submission
 status: active
 tags: [submission, pangyo]
+related_projects: [건강계좌]
+related_raw: [06_RAW/0323_판교창업존]
 ---
 
 # 판교창업존 제출 허브

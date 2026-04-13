@@ -1,3 +1,10 @@
+---
+type: guide-storage
+status: active
+tags: [raw-materials, guide, storage]
+related_folders: [05_리서치, 07_OUTPUTS]
+---
+
 # 06_RAW
 
 이 폴더는 **원문 보관소**입니다.

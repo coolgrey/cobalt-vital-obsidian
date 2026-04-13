@@ -1,7 +1,9 @@
 ---
-type: index
+type: index-submission
 status: active
 tags: [competition, women-startup]
+related_projects: [건강계좌]
+related_raw: [06_RAW/0416_여성창업]
 ---
 
 # 여성창업경진대회 제출 허브

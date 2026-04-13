@@ -1,3 +1,10 @@
+---
+type: guide-operations
+status: active
+tags: [operations, maintenance, schema, workflow]
+related_folders: [00_대시보드]
+---
+
 # 90_운영
 
 이 폴더는 볼트 운영용 문서를 저장합니다.

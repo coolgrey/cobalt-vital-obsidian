@@ -1,3 +1,11 @@
+---
+type: raw-source
+status: active
+tags: [women-startup, competition, raw-material]
+related_submission: [04_제출용/여성창업경진대회]
+related_analysis: [05_리서치/여성창업경진대회_평가기준]
+---
+
 # 0416_여성창업
 
 ## 📋 용도

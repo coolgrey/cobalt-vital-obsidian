@@ -1,3 +1,9 @@
+---
+type: guide-maintenance
+status: active
+tags: [health-check, maintenance, validation]
+---
+
 # health_checks
 
 이 폴더는 위키 전체의 건강 상태를 점검하는 문서를 둡니다.

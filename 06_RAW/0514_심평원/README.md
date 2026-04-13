@@ -1,3 +1,11 @@
+---
+type: raw-source
+status: active
+tags: [hira, competition, healthcare-ai, raw-material]
+related_analysis: [05_리서치/의료AI_경진대회_분석]
+related_projects: [03_CocFlow]
+---
+
 # 0514_심평원
 
 ## 📋 용도

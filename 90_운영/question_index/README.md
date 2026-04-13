@@ -1,7 +1,7 @@
 ---
-type: index
+type: guide-qa-index
 status: active
-tags: [question, index]
+tags: [question, index, qa, preparation]
 ---
 
 # Question Index

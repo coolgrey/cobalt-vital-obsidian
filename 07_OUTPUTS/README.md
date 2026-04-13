@@ -1,3 +1,10 @@
+---
+type: guide-outputs
+status: active
+tags: [outputs, results, synthesis, qa]
+related_folders: [05_리서치, 06_RAW]
+---
+
 # 07_OUTPUTS
 
 이 폴더는 **질의 결과와 파생 산출물**을 저장합니다.

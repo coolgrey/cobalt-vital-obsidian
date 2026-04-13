@@ -1,3 +1,11 @@
+---
+type: raw-source
+status: active
+tags: [pangyo, raw-material]
+related_submission: [04_제출용/판교창업존]
+related_analysis: [05_리서치/판교창업존_입주전략]
+---
+
 # 0323_판교창업존
 
 ## 📋 용도

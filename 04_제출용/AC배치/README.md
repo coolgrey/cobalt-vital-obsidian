@@ -1,7 +1,8 @@
 ---
-type: guide
+type: guide-submission
 status: draft
-tags: [submission, ac]
+tags: [submission, accelerator, ac]
+related_projects: [02_건강계좌]
 ---
 
 # AC배치 폴더

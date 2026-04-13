@@ -1,3 +1,10 @@
+---
+type: raw-source
+status: active
+tags: [kinstar, raw-material, case-study]
+related_analysis: [05_리서치/킨스타워_입주신청_분석]
+---
+
 # 0320_중장년_킨스타워
 
 ## 📋 용도

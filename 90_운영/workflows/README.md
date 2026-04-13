@@ -1,7 +1,7 @@
 ---
-type: guide
+type: guide-workflow
 status: active
-tags: [workflow, operation]
+tags: [workflow, operation, routine, automation]
 ---
 
 # Workflows

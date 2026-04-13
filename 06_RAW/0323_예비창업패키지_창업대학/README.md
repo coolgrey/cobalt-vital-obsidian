@@ -1,3 +1,10 @@
+---
+type: raw-source
+status: active
+tags: [startup-university, government, raw-material]
+related_analysis: [05_리서치/창업지원프로그램_현황]
+---
+
 # 0323_예비창업패키지_창업대학
 
 ## 📋 용도

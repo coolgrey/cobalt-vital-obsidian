@@ -1,3 +1,12 @@
+---
+type: external-clips
+status: active
+tags: [clippings, external-materials, references]
+related_folders: [01_공통/01_원천/경쟁사분석, 01_공통/01_원천/규제_정책, 01_공통/01_원천/시장분석]
+total_items: 7
+last_updated: 2026-04-13
+---
+
 # Clippings — 외부 자료 모음
 
 ## 목적

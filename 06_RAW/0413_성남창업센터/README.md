@@ -1,3 +1,11 @@
+---
+type: raw-source
+status: active
+tags: [seongnam, raw-material]
+related_submission: [04_제출용/성남창업센터]
+related_analysis: [05_리서치/성남창업센터_입주프로세스]
+---
+
 # 0413_성남창업센터
 
 ## 📋 용도
