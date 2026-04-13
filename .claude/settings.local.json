@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 analyze_obsidian.py)",
+      "Bash(find . -type f -name \"*.md\" -not -path \"./.*\" -exec grep -l '\\\\[\\\\[' {} \\\\;)",
+      "Read(//tmp/**)",
+      "Bash(chmod +x check_links.sh)",
+      "Bash(./check_links.sh)",
+      "Bash(xargs -I {} basename {})",
+      "Bash(echo \"총 파일 수: $\\(find ./Clippings -type f -name \"*.md\")"
+    ]
+  }
+}

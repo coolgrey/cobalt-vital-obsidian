@@ -14,5 +14,12 @@
   "pdfsExportPdfMargin": "0",
   "pdfsExportFont": "sans-serif",
   "autoConvertHtml": false,
-  "lastOpenedFile": "00_대시보드/홈.md"
+  "lastOpenedFile": "00_대시보드/홈.md",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 52
+  }
 }
