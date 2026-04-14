@@ -7,7 +7,14 @@
       "Bash(chmod +x check_links.sh)",
       "Bash(./check_links.sh)",
       "Bash(xargs -I {} basename {})",
-      "Bash(echo \"총 파일 수: $\\(find ./Clippings -type f -name \"*.md\")"
+      "Bash(echo \"총 파일 수: $\\(find ./Clippings -type f -name \"*.md\")",
+      "Bash(python3)",
+      "Bash(ls -lh *.docx)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python)",
+      "Bash(ls -lh \"/c/Users/feelg/OneDrive/00.Flex_바탕 화면_2023/MSI_20260220_백업폴더/건강계좌_신규작업_git/04_제출용/여성창업경진대회/\"*.pdf)",
+      "Bash(grep -E \"\\\\.\\(md|pdf|docx\\)$\")"
     ]
   }
 }
